@@ -30,7 +30,7 @@ Financial modeling and valuation projects including 3-statement models, DCF valu
 
 ## Featured Projects
 
-### Apple Valuation Model (Apple.md)
+### Apple Valuation Model 
 
 A fully integrated valuation model including:
 
@@ -42,4 +42,4 @@ A fully integrated valuation model including:
 
 - Precedent transactions
 
-- Sensitivity analysis (Sensitivity analysis.png)
+- Sensitivity analysis 
