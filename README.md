@@ -42,4 +42,4 @@ A fully integrated valuation model including:
 
 - Precedent transactions
 
-- Sensitivity analysis 
+- Sensitivity analysis (https://github.com/Jessicazee97/Finance-Portfolio/blob/c12a6a23739dce34c88161f4c55d5e4625bdc644/Sensitivity%20analysis.png)
