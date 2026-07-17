@@ -8,7 +8,7 @@ Financial modeling and valuation projects including 3-statement models, DCF valu
 
 | Apple | Technology | 3-Statement Model, DCF, Trading Comps, Precedent Transactions |
 
-| LVMH | Luxury Goods | 3-Statement Model, DCF, Sensitivity Analysis |
+| LVMH | Luxury Goods | 3-Statement Model, DCF, Sensitivity Analysis |(soon to come )
 
 ## Skills Demonstrated
 
